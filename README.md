@@ -1,7 +1,7 @@
 # Automated User Migration and Management of AWS Identity and Access Management (IAM) Resources
 
 <p align="center">
-  <img src="https://i.imgur.com/MydpkxV.png" height="80%" width="80%" alt="Project Banner"/>
+  <img src="https://i.imgur.com/R67LZzw.png" height="80%" width="80%" alt="Project Banner"/>
 </p>
 
 ## Project Description
