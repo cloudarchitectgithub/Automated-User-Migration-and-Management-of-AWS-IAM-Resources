@@ -216,10 +216,6 @@ Repeat Step 2 to create additional IAM groups for different teams, such as "DBAs
    
 4. Assign the MFA device to the root user.
 
-<p align="center">
-  <img src="" height="80%" width="80%" alt="MFA for Root User Screenshot"/>
-</p>
-
 ### Step 6: Create and Attach Enforce MFA Policy
 1. Download the provided JSON file containing the policy to enforce multi-factor authentication.
 2. Create a new policy in the AWS IAM service using the JSON file.
@@ -306,7 +302,7 @@ o	Attempt to create a database.
   <img src="https://i.imgur.com/9VgQeXJ.png" height="80%" width="80%" alt="MFA Troubleshooting Screenshot"/>
 </p>
 
-### Step 10: Troubleshoot Potential MFA Issues
+### Step 11: Troubleshoot Potential MFA Issues
 -	If you encounter issues like MFA device conflicts (e.g., an error asking for the removal of a device), you can either:
 -	Use the AWS CLI to remove the existing MFA device.
 -	Refer to the AWS documentation for resolving MFA conflicts.
